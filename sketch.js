@@ -140,7 +140,7 @@ function draw() {
       textSize(width/27.2)
       stroke("green")
       fill("red")
-      text(" Obective: Beat the three levels by shooting the target \n Each levels lets you shoot three times \n You need atleast 150 points to move to the next level \n To shoot, click on the red button next to the bow \n To aim, click the up and down buttons \n The outer ring is worth 25 points \n The middle ring is worth 50 points \n The inner ring is worth 100 points",width/13.6,height/3)
+      text(" Obec5tive: Beat the three levels by shooting the target \n Each levels lets you shoot three times \n You need atleast 150 points to move to the next level \n To shoot, click on the red button next to the bow \n To aim, click the up and down buttons \n The outer ring is worth 25 points \n The middle ring is worth 50 points \n The inner ring is worth 100 points",width/13.6,height/3)
     }
   }
   if (gameState == "playing") {
